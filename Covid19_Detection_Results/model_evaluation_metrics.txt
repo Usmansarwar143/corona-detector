@@ -1,0 +1,22 @@
+MODEL EVALUATION RESULTS
+=========================
+
+Final Training Metrics (Last Epoch):
+Train Loss: 0.0252
+Train Accuracy: 0.9988
+Val Loss: 0.0815
+Val Accuracy: 0.9787
+
+Evaluated Scores on Test Set:
+Test Loss: 0.0883
+Test Accuracy: 0.9766
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       196
+           1       0.98      0.98      0.98       177
+
+    accuracy                           0.98       373
+   macro avg       0.98      0.98      0.98       373
+weighted avg       0.98      0.98      0.98       373
